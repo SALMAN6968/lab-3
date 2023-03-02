@@ -1,2 +1,1 @@
-# lab-3 
-updated program
+# lab-3 updated program
